@@ -31,21 +31,24 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 
 Dear SECME Educators and Competition Hosts:
 
-The SECME National Office is excited to welcome you to the 2022-2023 SECME Competition year. This year’s competition theme is based on “School or ISL mascot or school motto.” This packet contains information for the SECME National Student Engineering Design Competition Finals, referred to as “Guidelines.” Due to the continuation of the public health crisis, the 2023 Competition will be virtual, and the content in this year’s Guidelines reflects a virtual National Competition.
+The SECME National Office is excited to welcome you to the 2022-2023 SECME Competition year. *This year’s competition theme is based on your school or Informal STEM Learning Environment (ISL) mascot or school motto.* This document contains information for the SECME National Student Engineering Design Competition Guidelines, generally known as the *“SECME National Guidelines.”* The Elementary Division of the 2023 SECME National Student Engineering Design Competition Finals will be held virtually.
 
-However, we are working with our schools, school districts, and member universities to ascertain the feasibility of a live, in-person National Competition. The SECME National Office will announce the determination on or before Monday, January 30, 2023. An addendum to these Guidelines will be prepared, disseminated, and posted on our website if the competition moves to a live, in-person format.
+SECME competitions are a fantastic way for teachers to reinforce science, technology, engineering, and mathematics skills with exciting, engaging hands-on activities while challenging students to persevere and excel. SECME student competitions expose students to real-world applications in science, technology, engineering, and mathematics while generating interest and excitement about college and careers in STEM.
 
 To our SECME competition hosts, in addition to hosting your SECME competition, in years past, many of you have provided technical assistance to schools and districts by way of SECME workshops for teachers to learn basic and necessary SECME competition skills to assist SECME students. The ability to provide these services continues to reside in this evolving new atmosphere. The SECME National Office is preparing to support by developing complementary competition training videos for all 2022-2023 registered schools.
 
-To make this year’s competition fun and challenging, we added new engineering and artistic twists and turns to stir our future scientists’, engineers’, technologists,’ and mathematicians’ minds. Activities, deadlines, and SECME competitions at the local, state, district, and regional levels are at the discretion of the SECME Member University or Competition Host. We encourage participation at all levels and divisions (elementary, middle, and high school).
+To make this year’s competition fun and challenging, we added new engineering and artistic twists and turns to stir our future scientists’, engineers’, technologists,’ and mathematicians’ minds. Activities, deadlines, and SECME competitions at the local, district, state, and regional levels are at the discretion of the SECME Member University or Competition Host. We encourage participation at all levels and divisions (elementary, middle, and high school).
 
 Thank you for your partnership and commitment to equity and excellence in STEM education. Have a wonderful and safe school year!
 
+
 Sincerely,
+
 Dr. Julaunica Tigner
+
 Educational Outreach Manager
 
-We welcome any corrections or any suggestions for improvement to our Guidelines. The feedback and comments we receive via email or telephone calls have supported the preparation of our annual guidelines. To provide feedback, please email julaunicatigner@ufl.edu
+<small> We welcome any corrections or any suggestions for improvement to our SECME National Guidelines. The feedback and comments we receive via email or telephone calls have supported the preparation of our annual guidelines. To provide feedback, please email julaunicatigner@ufl.edu </small>
 
 
 # SECME Competition Information
@@ -68,7 +71,7 @@ SECME engineering design competitions are intended to challenge SECME student pa
 
 ## SECME Important Deadlines
 
-The SECME National Office will publish announcements, changes, and updates on the SECME Website under the News tab. Additional details on the electronic submissions process are in the Reporting Checklist. Terms used throughout these Guidelines are on the Definitions and Explanations Page.
+The SECME National Office will publish announcements, changes, and updates on the SECME Website under the News tab. Additional details on the electronic submissions process are in the Reporting Checklist. Terms used throughout these SECME National Guidelines are on the Definitions and Explanations Page.
 
 **Monday, January 9, 2023** – Competing *schools* must register with the SECME National Office.
 
@@ -111,7 +114,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
  
 ## General Competition Information
 
-Please read the entirety of the 2022-2023 SECME National Student Engineering Design Competition Guidelines. Any alterations to these Guidelines are prohibited. If you are a SECME competition host with local SECME competition guidelines, please keep the contents of the National Competition Guidelines separate from your local guidelines.  
+Please read the entirety of the 2022-2023 SECME National Student Engineering Design Competition Guidelines. Any alterations to these Guidelines are prohibited. If you are a SECME competition host with local SECME competition guidelines, please keep the contents of the SECME National Guidelines separate from your local guidelines.  
 
 ### Collaboration and Consent
 
@@ -131,11 +134,11 @@ To foster collaboration and a knowledge-sharing STEM community, all materials su
 
 *	SECME Coordinators will upload all required documents see [Reporting Checklist]
 
-*	An Art of Engineering Video Presentation (AOE) is needed – All Divisions, Following Team Competitions: MTC, WBR, VEX IQ, and VEX V5 
+*	An Art of Engineering Video Presentation (AOE) is needed – All Divisions, Following Team Competitions: MTC, WBR, and VEX IQ
 
-*	Technical drawing – competition teams can include an AutoCAD drawing with their hand to draw a technical drawing of the MTC and WBR.
+*	Technical drawing – competition teams can include an AutoCAD drawing with their hand to draw a technical drawing of the MTC and WBR
 
-*	Patch Design theme aligned with SECME theme – “School or ISL mascot or school motto.”
+*	Patch Design theme aligned with SECME theme: your school or ISL mascot or school motto
 
 *	A video demonstrating the competition vehicle (MTC, WBR, VEX IQ, and VEX V5) in motion
 
@@ -163,7 +166,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 
 **PLEASE READ CAREFULLY**
 
-SECME Member Universities, Program Directors, and Coordinators are asked to distribute or reference these Guidelines to all educators, parents, business & industry partners, and graduate and undergraduate students who prepare students for this year’s competitions or serve as mentors or judges. They must fully understand the Guidelines and judging criteria for each competition.
+SECME Member Universities, Program Directors, and Coordinators are asked to distribute or reference the SECME National Guidelines to all educators, parents, business & industry partners, and graduate and undergraduate students who prepare students for this year’s competitions or serve as mentors or judges. They must fully understand the Guidelines and judging criteria for each competition.
 
 1.	All entries are expected to be neat, original, and *only completed by the SECME student.*
 
@@ -605,7 +608,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 
 4. Patch designs must be submitted on a 13”× 13” poster board.
 
-5. All patch entries must follow the SECME competition theme “School or ISL mascot or school motto.”
+5. All patch entries must follow the SECME competition theme: your school or ISL mascot or school motto
 
 6. A short (less than one page) explanation of the patch’s symbols must be included on the back of the patch design (Refer to the example on the next page). The following information should be included on the back: 
 	a. Competition (ex. SECME Water Bottle Rocket)
@@ -627,7 +630,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 **The patch design will be judged on the following criteria:**
 
 1. Paper Size Requirement 13” x 13” poster board)
-2. Theme: “School or ISL mascot or school motto.”
+2. SECME Theme: your school or ISL mascot or school motto
 3. Appearance 
 4. Creativity 
 5. Explanation of Patch – Less than a one-page explanation of your patch 
@@ -1200,7 +1203,7 @@ What is a patch? A patch is a creative display that reflects the dedication and 
 **The Patch Design will be judged on the following criteria:**
 	
 1. Paper Size Requirement (13”×13” poster board)
-2. SECME Theme - “School or ISL mascot or school motto.”
+2. SECME Theme: your school or ISL mascot or school motto
 3. Appearance 
 4. Creativity 
 5. Explanation of Patch 
