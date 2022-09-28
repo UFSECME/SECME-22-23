@@ -24,7 +24,7 @@ xfun::pkg_load2(c("htmltools", "mime"))
 
 To view the SECME National Guidelines in a PDF click to
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/SECME Guidelines 22-23_EL.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/SECME Guidelines 22-23_EL.pdf")
 ```
 
 # Letter to our Competition Hosts
@@ -91,9 +91,9 @@ SECME Student Surveys are due for **ALL SECME students**. It is **REQUIRED** for
 
 The links below are also available on our website at www.secme.org.
 
-[Grades Pre-K-2](https://docs.google.com/forms/d/e/1FAIpQLSdi2zdJJMA-rxnXYLa5RA6A4w9WYveUo7jSx-T2QYGO9nJ-tQ/viewform)
+[Grades Pre-K-2](https://forms.gle/Hww3AbcbYCRPkkPU6)
 
-[Grades 3-5](https://docs.google.com/forms/d/e/1FAIpQLSf_ifcTiNtmyKXqQO_rdhDbz1qd4jLu0iGHP3MHr3lxbiuZ8Q/viewform)
+[Grades 3-5](https://forms.gle/8JUy2Sfc1YQaXpYo7)
 
 **Monday, May 8, 2023** – Notification of Winners. SECME will post a listing of All winners on their website.
 
@@ -106,7 +106,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
  
 ## General Competition Information
 
-Please read the entirety of the 2022-2023 SECME National Student Engineering Design Competition Guidelines. Any alterations to these guidelines are prohibited. If you are a SECME Competition Host with local SECME competition guidelines, please keep the contents of the SECME National Guidelines separate from your local guidelines.
+Please read the entirety of the 2022-2023 SECME National Student Engineering Design Competition Guidelines. Any alterations to these guidelines are prohibited. If you are a SECME competition host with local SECME competition guidelines, please keep the contents of the SECME National Guidelines separate from your local guidelines.
 
 <center><mark>**All Elementary SECME Competitions are non-traveling.**</mark></center>
 
@@ -417,7 +417,7 @@ Please follow the instructions below to participate in the SECME VEX IQ Robotics
     d.	Robot Skills Challenge
     e.	Programming Challenge
 
-3.	SECME VEX IQ Robotics are non-qualifying competitions. Your student team does not have to place first in your local, district, state, or regional competition to compete at the SECME National Competition level. In the absence of a SECME VEX IQ Robotics competition at your local, district, state, or regional competition, the Coordinator must notify the SECME National Office that they have a student team(s) that they would like to be registered. The SECME National Office will provide the designated links to upload all required documents.
+3.	SECME VEX IQ Robotics are non-qualifying competitions. Your student team does not have to place first in your local, district, state, or regional competition to compete at the SECME National Competition level. In the absence of a SECME VEX IQ Robotics competition at your local, district, state, or regional competition, the SECME Coordinator must notify the SECME National Office that they have a student team(s) that they would like to be registered. The SECME National Office will provide the designated links to upload all required documents.
 
 4.	**SECME Student Team Requirements**: VEX IQ Robotics is a non-qualifying SECME Competition. Student teams can be made up of one, two, or three students per team.
 
@@ -535,7 +535,7 @@ $\color{red}{\text{They are dangerous and could harm the operator and bystanders
 
 <center><mark>**Elementary Water Bottle Rocket is a non-traveling student team competition.**</mark></center>
 
-#### In-Person Event - Calculation of Water Bottle Score 
+#### In-Person Event - Calculation of WBR Score 
 
 <center><mark>**NOTE: Each entry must pass a visual inspection and height requirement to be eligible to compete. Entries that fail inspection are given ONE opportunity to make modifications to pass inspection before the beginning of the water bottle rocket competition.**</mark></center>
 
@@ -559,9 +559,9 @@ $Final Hangtime Score=\frac{Hangtime}{Max Hangtime}x100%$
 
 The contest’s objective is for each SECME student team to launch a rocket-propelled by water and air and for it to stay aloft for the maximum amount of time (measured in seconds). The launch angle, which can be adjusted from approximately **90 degrees (90^o^)**, will be kept the **SAME** for all rockets launching during a particular competition. Each rocket will be launched using **12 oz water** at **70 psi of air pressure**.
 
-NOTE: The maximum final elementary Water Bottle Rocketry score is 100 pts.
+NOTE: The maximum final elementary Water Bottle Rocket score is 100 pts.
 
-#### Virtual Event - Calculation of Water Bottle Rocket Score
+#### Virtual Event - Calculation of WBR Score
 There is no hangtime performance
 
 The winner will be judged on the following criteria: (based on 100 pts):
@@ -782,9 +782,9 @@ The Vision Board will be judged on the following criteria:
 
 3. Appearance, Effort, Creativity, Originality
 
-4. Video explanation of the Vision Board (Pre-K-2 grades)
+4. Video explanation of the Vision Board (Pre-K-2)
 
-5. One paragraph explanation of the Vision Board (3-12 grades)
+5. One paragraph explanation of the Vision Board (3-12)
 
 6. Video explanation of the Vision Board (3-12) - optional
 

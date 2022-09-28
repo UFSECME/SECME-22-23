@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 xfun::pkg_load2(c("htmltools", "mime"))
 ```
 
-# Elementary School Division
+# Middle and High School Division
 
 <center>
 ![](images/SECME_logo.jpg)
@@ -24,14 +24,14 @@ xfun::pkg_load2(c("htmltools", "mime"))
 
 To view the SECME National Guidelines in a PDF click to
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/SECME Guidelines 22-23_EL.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/SECME Guidelines 22-23_MSHS.pdf")
 ```
 
 # Letter to our Competition Hosts
 
 Dear SECME Educators and Competition Hosts:
 
-The SECME National Office is excited to welcome you to the 2022-2023 SECME Competition year. *This year’s competition theme is based on your school or Informal STEM Learning Environment (ISL) mascot or school motto.* This document contains information for the SECME National Student Engineering Design Competition Guidelines, generally known as the *“SECME National Guidelines.”* The Elementary Division of the 2023 SECME National Student Engineering Design Competition Finals will be held virtually.
+The SECME National Office is excited to welcome you to the 2022-2023 SECME Competition year. *This year’s competition theme is based on your school or Informal STEM Learning Environment (ISL) mascot or school motto.* This document contains information for the SECME National Student Engineering Design Competition Guidelines, generally known as the *“SECME National Guidelines.”* The Middle/High Division of the 2023 SECME National Student Engineering Design Competition Finals will be held in-person except for the water bottle rocket and essay/vison board competition, which are non-travelling competitions.
 
 SECME competitions are a fantastic way for teachers to reinforce science, technology, engineering, and mathematics skills with exciting, engaging hands-on activities while challenging students to persevere and excel. SECME student competitions expose students to real-world applications in science, technology, engineering, and mathematics while generating interest and excitement about college and careers in STEM.
 
@@ -61,12 +61,11 @@ All SECME competitions:
 
 * Are for individual SECME students and SECME student teams
 
-*	All SECME Competition Hosts should communicate with their participating schools and ISLs about their local arrangements
+* All SECME Competition Hosts should communicate with their participating schools and ISLs about their local arrangements
 
-*	Student teams may have one to three students on the team
+* Student teams may have one to three students on the team
 
 SECME engineering design competitions are intended to challenge SECME student participants and develop essential skills for their futures as STEM professionals. Construction of vehicles, technical designs, technical and written reports, patch designs, PowerPoint presentations, essays, vision boards, and posters should be solely the work of the SECME student participants. Plagiarism is prohibited. Remember that **PLAGIARISM** is taking someone else’s work or ideas and passing them off as one’s own or using your old work and passing it off as new (self-plagiarism).
-
 
 
 ## SECME Important Deadlines
@@ -91,18 +90,16 @@ SECME Student Surveys are due for **ALL SECME students**. It is **REQUIRED** for
 
 The links below are also available on our website at www.secme.org.
 
-[Grades Pre-K-2](https://docs.google.com/forms/d/e/1FAIpQLSdi2zdJJMA-rxnXYLa5RA6A4w9WYveUo7jSx-T2QYGO9nJ-tQ/viewform)
+[Grades 6-8](https://forms.gle/SugBCVt4cxjssZ7Z6)
 
-[Grades 3-5](https://docs.google.com/forms/d/e/1FAIpQLSf_ifcTiNtmyKXqQO_rdhDbz1qd4jLu0iGHP3MHr3lxbiuZ8Q/viewform)
+[Grades 9-12](https://forms.gle/PzMkHPgM3hvSdRfB6)
 
 **Monday, May 8, 2023** – Notification of Winners. SECME will post a listing of All winners on their website.
 
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Important Deadlines.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Important Deadlines_MSHS.pdf")
 ```
- 
- 
  
 ## General Competition Information
 
@@ -151,7 +148,7 @@ All 1st place winners at their local, district, state, or regional competition a
 Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. Registration opens **Monday, March 13, 2023**, and closes on **Monday, April 3, 2023**. A registration link will also be sent with instructions to complete registration.
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/SECME Registration Information.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Important Deadlines_MSHS.pdf")
 ```
 <center>
 ![](docs/SECME Registration Information.jpg){width=50%}
@@ -417,7 +414,7 @@ Please follow the instructions below to participate in the SECME VEX IQ Robotics
     d.	Robot Skills Challenge
     e.	Programming Challenge
 
-3.	SECME VEX IQ Robotics are non-qualifying competitions. Your student team does not have to place first in your local, district, state, or regional competition to compete at the SECME National Competition level. In the absence of a SECME VEX IQ Robotics competition at your local, district, state, or regional competition, the Coordinator must notify the SECME National Office that they have a student team(s) that they would like to be registered. The SECME National Office will provide the designated links to upload all required documents.
+3.	SECME VEX IQ Robotics are non-qualifying competitions. Your student team does not have to place first in your local, district, state, or regional competition to compete at the SECME National Competition level. In the absence of a SECME VEX IQ Robotics competition at your local, district, state, or regional competition, the SECME Coordinator must notify the SECME National Office that they have a student team(s) that they would like to be registered. The SECME National Office will provide the designated links to upload all required documents.
 
 4.	**SECME Student Team Requirements**: VEX IQ Robotics is a non-qualifying SECME Competition. Student teams can be made up of one, two, or three students per team.
 
@@ -535,7 +532,7 @@ $\color{red}{\text{They are dangerous and could harm the operator and bystanders
 
 <center><mark>**Elementary Water Bottle Rocket is a non-traveling student team competition.**</mark></center>
 
-#### In-Person Event - Calculation of Water Bottle Score 
+#### In-Person Event - Calculation of WBR Score 
 
 <center><mark>**NOTE: Each entry must pass a visual inspection and height requirement to be eligible to compete. Entries that fail inspection are given ONE opportunity to make modifications to pass inspection before the beginning of the water bottle rocket competition.**</mark></center>
 
@@ -559,9 +556,9 @@ $Final Hangtime Score=\frac{Hangtime}{Max Hangtime}x100%$
 
 The contest’s objective is for each SECME student team to launch a rocket-propelled by water and air and for it to stay aloft for the maximum amount of time (measured in seconds). The launch angle, which can be adjusted from approximately **90 degrees (90^o^)**, will be kept the **SAME** for all rockets launching during a particular competition. Each rocket will be launched using **12 oz water** at **70 psi of air pressure**.
 
-NOTE: The maximum final elementary Water Bottle Rocketry score is 100 pts.
+NOTE: The maximum final elementary Water Bottle Rocket score is 100 pts.
 
-#### Virtual Event - Calculation of Water Bottle Rocket Score
+#### Virtual Event - Calculation of WBR Score
 There is no hangtime performance
 
 The winner will be judged on the following criteria: (based on 100 pts):
@@ -782,9 +779,9 @@ The Vision Board will be judged on the following criteria:
 
 3. Appearance, Effort, Creativity, Originality
 
-4. Video explanation of the Vision Board (Pre-K-2 grades)
+4. Video explanation of the Vision Board (Pre-K-2)
 
-5. One paragraph explanation of the Vision Board (3-12 grades)
+5. One paragraph explanation of the Vision Board (3-12)
 
 6. Video explanation of the Vision Board (3-12) - optional
 
@@ -797,7 +794,7 @@ Required for Competition
 The following are the required SECME competition documents, reports, videos, and forms that the SECME Coordinator must electronically upload on or before **Monday, April 10, 2023**. Required competition reports not submitted will result in a zero score for that section. Except for videos, ALL work must be converted to a PDF document before submission.
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/Reporting Checklist_EL.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/Reporting Checklist_MSHS.pdf")
 ```
 <center>
 ![](docs/Reporting Checklist_EL1.jpg){width=50%}
@@ -810,7 +807,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Gu
 Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. Registration opens **Monday, March 13, 2023**, and closes on **Monday, April 3, 2023**. A registration link will also be sent with instructions to complete registration.
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/SECME Registration Information.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Registration Information.pdf")
 ```
 <center>
 ![](docs/SECME Registration Information.jpg){width=50%}
@@ -819,7 +816,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Gu
 ## SECME Consent Form - Photo/Video
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/SECME Consent Form.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Consent Form.pdf")
 ```
 
 <center>
@@ -926,7 +923,7 @@ Coordinator/Teacher email address
 
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/Materials List.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/Materials List.pdf")
 ```
 <center>
 ![](docs/Materials List.jpg){width=50%}
@@ -938,7 +935,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Gu
 
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/SECME Grievance Form.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Grievance Form.pdf")
 ```
 <center>
 ![](docs/SECME Grievance Form.jpg){width=50%}
