@@ -186,7 +186,7 @@ B.	Student Surveys. ***All students participating in SECME must be complete the 
 
 ### Register Students and Teams
 
-All member universities, districts, and ISLs will receive an invitation to register their first-place winning students and student teams. If VEX IQ Robotics is not part of your local, district, state, or regional competition. In that case, Coordinators will have the opportunity to register their students competing in either of these competitions as these are “non-qualifying” competitions. Registration opens **Monday, March 13, 2023**, and closes **Monday, April 3, 2023**. Hard copy registrations and emails will not be accepted. If you have problems with the electronic registration, please contact the SECME National Office for assistance.
+All member universities, districts, and ISLs will receive an invitation to register their first-place winning students and student teams. If VEX IQ Robotics is not part of your local, district, state, or regional competition, SECME Coordinators will have the opportunity to register their students competing in either of these competitions as these are “non-qualifying” competitions. Registration opens **Monday, March 13, 2023**, and closes **Monday, April 3, 2023**. Hard copy registrations and emails will not be accepted. If you have problems with the electronic registration, please contact the SECME National Office for assistance.
 
 Registration opens **Monday, March 13, 2023, and closes Monday, April 3, 2023**. Hard copy registrations and emails will not be accepted. If you have problems with the electronic registration, please contact the SECME National Office for assistance.
 
@@ -265,9 +265,9 @@ Original receipts for all materials purchased must be included* (scanned) AND re
 
 **The tennis ball must remain in the mousetrap vehicle for the entire run of the mousetrap car to receive a qualifying score. A run is disqualified if the tennis ball falls out of the car.** If the tennis ball is dislodged due to a collision with an obstacle, the run is not disqualified. The run distance is measured to the point of collision - the front of the front wheel(s) at the starting point to the front of the front wheel(s) at the stopping point or the point of collision.
 
-**A standard-size tennis ball with a diameter of 66.9 mm (0.64”) and 40 g will be given to the SECME student teams on the day of competition before their run at the SECME National Student Competition Finals.**
+**A standard-size tennis ball with a diameter of 66.9 mm (0.64 inches) and 40 g will be given to the SECME student teams on the day of competition before their run at the SECME National Student Competition Finals.**
 
-~The Mousetrap Car Materials List is required for the Technical Report Appendix for middle/high school teams and the Written Report for elementary school teams. If the Materials List is NOT submitted, the Cost (C) for the team’s score is double the highest cost (C~H~) in the competition formula.
+*The Mousetrap Car Materials List is required for the Technical Report Appendix for middle/high school teams and the Written Report for elementary school teams. If the Materials List is NOT submitted, the Cost (C) for the team’s score is double the highest cost (C~H~) in the competition formula.
 
 #### Measurement of L, the Mouse Car’s Longest Dimension
 The length L is the longest dimension in the x, y, or z-axis. In other words, it could be the length, width, or height of the completed mousetrap car, which is the longest dimension.
@@ -294,7 +294,7 @@ The MTC Engineering Design Competition, Elementary School Division requires part
 1.	Performance Run of the Mousetrap Car
 2.	Written Report on Mousetrap Car
 
-#### In-Person Event - Calculation of Mousetrap Car Score
+#### In-Person Event - Calculation of MTC Score
 
 The performance score for the Mousetrap car run is calculated using the following equation:
 
@@ -358,7 +358,7 @@ The Final Score is based on the following two criteria:
 
 *	Written Report 50%
 
-#### Virtual Event - Calculation of Mousetrap Car Score
+#### Virtual Event - Calculation of MTC Score
 
 Calculate the score when there is no physical competition - car run
 
@@ -402,7 +402,7 @@ The VEX IQ Robotics Design System offers students an exciting platform for learn
 Please follow the instructions below to participate in the SECME VEX IQ Robotics Competition.
 
 1.	**Team Registration**: You are encouraged to register your team with VEX IQ Robotics at www.RobotEvents.com. Registration connects you to the system and gives you access to resources.
-    a.	Registration costs $100 for the first team and $50 for each additional team at the same school.
+    a.	Registration costs 100 USD for the first team and 50 USD for each additional team at the same school.
     b.	Registration gets you access to the official VEX IQ Robotics Competitions and a welcome kit that includes:
         i.	Sample Game Pieces
         ii.	Robot License Tags
@@ -445,7 +445,7 @@ This year’s game is [Slapshot](https://www.youtube.com/watch?v=vF3I8FscrKo). W
 
 Click to access the official [VEX IQ Robotics Slapshot competition resources](https://www.vexrobotics.com.mx/vexiq/doctos/2022/2022-VIQC-GameManual2023.pdf). To see the [VEX IQ Robotics Slapshot video](https://www.youtube.com/watch?v=vF3I8FscrKo)
 
-#### Student Team Requirements
+#### SECME Student Team Requirements
 
 VEX IQ Robotics is a non-qualifying SECME Competition. If your students compete in a virtual competition, student teams can be made up of one, two, or three students.
 
@@ -494,7 +494,8 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Gu
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_3-5.pdf")
 ```
 
-**The Mission**
+### The Mission
+
 The mission is to design a Water Bottle Rocket Vehicle capable of staying aloft for the longest time (measured in seconds).
 
 #### Regulations
@@ -562,6 +563,7 @@ The contest’s objective is for each SECME student team to launch a rocket-prop
 NOTE: The maximum final elementary Water Bottle Rocket score is 100 pts.
 
 #### Virtual Event - Calculation of WBR Score
+
 There is no hangtime performance
 
 The winner will be judged on the following criteria: (based on 100 pts):
@@ -674,7 +676,9 @@ What is the Art of Engineering (AOE)? AOE is an opportunity for SECME student te
 In the video, teams will:
 
 *	Introduce their team and themselves
+
 *	Introduce their final design
+
 *	Walk through their design process
       + Brainstorming design ideas – initial sketches and ideas
       + Prototype Versions – at least two versions
@@ -705,6 +709,7 @@ SECME’s essay and vision board competitions are written and illustrative repre
 
 
 ### Topics
+
 1. How has participation in SECME helped me to discover my STEM dream job?
 
 2. How has the COVID-19 pandemic shown the importance of STEM?

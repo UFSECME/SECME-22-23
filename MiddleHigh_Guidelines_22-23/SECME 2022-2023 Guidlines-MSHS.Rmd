@@ -19,7 +19,7 @@ xfun::pkg_load2(c("htmltools", "mime"))
 # Middle and High School Division
 
 <center>
-![](images/SECME_logo.jpg)
+![](images_MSHS/SECME_logo.jpg)
 </center>
 
 To view the SECME National Guidelines in a PDF click to
@@ -54,7 +54,7 @@ Educational Outreach Manager
 # SECME Competition Information
 
 <center>
-![](images/Competitions_List.jpg){width=50%}
+![](images_MSHS/Competitions_List_MSHS.jpg){width=50%}
 </center>
 
 All SECME competitions:
@@ -105,8 +105,6 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Gu
 
 Please read the entirety of the 2022-2023 SECME National Student Engineering Design Competition Guidelines. Any alterations to these guidelines are prohibited. If you are a SECME Competition Host with local SECME competition guidelines, please keep the contents of the SECME National Guidelines separate from your local guidelines.
 
-<center><mark>**All Elementary SECME Competitions are non-traveling.**</mark></center>
-
 ### Collaboration and Consent
 
 To foster collaboration and a knowledge-sharing STEM community, all materials submitted to SECME will become the property of SECME and may be shared via the SECME website, marketing documents, presentations, etc. Materials include, but are not limited to, written and technical reports, engineering notebooks, pictures, technical drawings, etc. We have included a parent/guardian consent form to use said documents. The SECME Coordinator will provide this document to the parent/guardian of each 1st place winner of local, district, state, and regional winner. Click to download the [SECME Consent Form - Photo/Video]
@@ -125,13 +123,13 @@ To foster collaboration and a knowledge-sharing STEM community, all materials su
 
 * **New!** SECME District and Regional Hosts will upload all required competition documents and videos see [Reporting Checklist]
 
-* An Art of Engineering Video Presentation (AOE) is required for all divisions and the following Team Competitions: MTC, WBR, and VEX IQ
+* An Art of Engineering Video Presentation (AOE) is required for all divisions and the following Team Competitions: MTC, WBR, and VEX V5
 
 *	Technical drawing – competition teams can include an AutoCAD drawing with their hand to draw a technical drawing of the MTC and WBR
 
 *	Patch Design theme aligned with SECME theme: your school or ISL mascot or school motto
 
-* A video demonstrating the competition vehicle: MTC, WBR, and VEX IQ in motion
+* A video demonstrating the competition vehicle: MTC, WBR, and VEX V5 in motion
 
 * Video submission for Essay/Vision Board (optional)
 
@@ -151,7 +149,7 @@ Below is the information needed to register 1st place winners for qualifying and
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Important Deadlines_MSHS.pdf")
 ```
 <center>
-![](docs/SECME Registration Information.jpg){width=50%}
+![](docs_MSHS/SECME Registration Information_MSHS.jpg){width=50%}
 </center>
 
 ## SECME Eligibility Criteria 
@@ -162,7 +160,7 @@ SECME Member Universities, Program Directors, and Coordinators are asked to dist
 
 1. All entries are expected to be neat, original, and *only completed by the SECME student.*
 
-2. Elementary School SECME students will compete with other SECME students in their respective grade bands.
+2. Middle and High School SECME students will compete with other SECME students in their respective grade bands.
 
 3. As identified in the SECME National Guidelines, first-place SECME local, district, state, or regional winning students or student teams advance to the 2022-2023 SECME National Student Competition Finals.
 
@@ -183,7 +181,7 @@ B.	Student Surveys. ***All students participating in SECME must be complete the 
 
 ### Register Students and Teams
 
-All member universities, districts, and ISLs will receive an invitation to register their first-place winning students and student teams. If VEX IQ Robotics is not part of your local, district, state, or regional competition. In that case, Coordinators will have the opportunity to register their students competing in either of these competitions as these are “non-qualifying” competitions. Registration opens **Monday, March 13, 2023**, and closes **Monday, April 3, 2023**. Hard copy registrations and emails will not be accepted. If you have problems with the electronic registration, please contact the SECME National Office for assistance.
+All member universities, districts, and ISLs will receive an invitation to register their first-place winning students and student teams. If VEX V5 Robotics is not part of your local, district, state, or regional competition, SECME Coordinators will have the opportunity to register their students competing in either of these competitions as these are “non-qualifying” competitions.
 
 Registration opens **Monday, March 13, 2023, and closes Monday, April 3, 2023**. Hard copy registrations and emails will not be accepted. If you have problems with the electronic registration, please contact the SECME National Office for assistance.
 
@@ -198,14 +196,12 @@ Required competition documents not uploaded will receive a zero-point score for 
 ## Mouse Trap Car (MTC)
 
 <center>
-![](images/MTC_1.png){width=50%}
+![](images_MSHS/MTC_1.png){width=50%}
 </center>
 
 ### All Divisions - Construction and Operation
 
 Any team not adhering to the construction and operation guidelines will not be eligible to place.
-
-<center><mark>**Elementary Mousetrap Car is a non-traveling student team competition.**</center></mark>
 
 #### Construction and Design Requirements
 
@@ -262,7 +258,7 @@ Original receipts for all materials purchased must be included* (scanned) AND re
 
 **The tennis ball must remain in the mousetrap vehicle for the entire run of the mousetrap car to receive a qualifying score. A run is disqualified if the tennis ball falls out of the car.** If the tennis ball is dislodged due to a collision with an obstacle, the run is not disqualified. The run distance is measured to the point of collision - the front of the front wheel(s) at the starting point to the front of the front wheel(s) at the stopping point or the point of collision.
 
-**A standard-size tennis ball with a diameter of 66.9 mm (0.64”) and 40 g will be given to the SECME student teams on the day of competition before their run at the SECME National Student Competition Finals.**
+**A standard-size tennis ball with a diameter of 66.9 mm (0.64 inches) and 40 g will be given to the SECME student teams on the day of competition before their run at the SECME National Student Competition Finals.**
 
 ~The Mousetrap Car Materials List is required for the Technical Report Appendix for middle/high school teams and the Written Report for elementary school teams. If the Materials List is NOT submitted, the Cost (C) for the team’s score is double the highest cost (C~H~) in the competition formula.
 
@@ -270,7 +266,7 @@ Original receipts for all materials purchased must be included* (scanned) AND re
 The length L is the longest dimension in the x, y, or z-axis. In other words, it could be the length, width, or height of the completed mousetrap car, which is the longest dimension.
 
 <center>
-![](images/MTC2.jpg){width=50%}
+![](images_MSHS/MTC2.jpg){width=50%}
 </center>
 
 The mousetrap car’s **length L is the longest dimension in the car’s x, y, or z-axis** while the car is resting with the spring unwound. In other words, it could be the length, width, or height of the completed mousetrap car, which is the longest dimension. If the bail has been straightened and protrudes past the front or rear of the car, the measurement is taken from the end of the bail to the other end of the car. 
@@ -279,27 +275,36 @@ The mousetrap car’s **length L is the longest dimension in the car’s x, y, o
 #### Standard Mousetrap Diagram
 
 <center>
-![](images/MTC3.png){width=50%}
+![](images_MSHS/MTC3.png){width=50%}
 </center>
 
 $\color{red}{\text{NOTE: The red parts may be removed from the car.}}$
 
-### Elementary School Division - Construction and Operation
+### Middle School Division - Construction and Operation
 
-The MTC Engineering Design Competition, Elementary School Division requires participation in these two areas:
+The MTC Engineering Design Competition Middle School Division requires participation in these five areas:
 
-1.	Performance Run of the Mousetrap Car
-2.	Written Report on Mousetrap Car
+1.	Mousetrap Car Performance Run
+2.	Technical Report of Mousetrap Car 
+3.	Technical Design Drawing of Mousetrap Car 
+4.	PowerPoint Presentation on the Mousetrap Car
+5.	The Art of Engineering video presentation
 
-#### In-Person Event - Calculation of Mousetrap Car Score
+
+#### In-Person Event - Calculation of MTC Score
 
 The performance score for the Mousetrap car run is calculated using the following equation:
 
 <center>
-$P =\frac{D}{L} × \frac{D}{T} × \frac{C_H}{C}$
+$P =\frac{w}{W} × \frac{D}{L} × \frac{D}{T} × \frac{C_H}{C}$
 </center>
 
 Where:
+
+w is the combined mass of a tennis ball and standard mousetrap (g). w = 25g + 57.7g = 82.7g
+
+W is the total weight of the completed mousetrap car (g).
+
 D is the distance the mousetrap car travels measured in centimeters (cm).
 
 L is the longest length of the completed mousetrap car from any orientation on the x, y, and z-axis measured in centimeters (cm).
@@ -324,7 +329,7 @@ F is the final performance score to be combined with the score from the Written 
 
 Distance is measured from the front of the front wheel(s) at the starting point to the front of the front wheel(s) at the stopping point of travel, utilizing a straight line to connect the two points.
 
-<mark> The Mousetrap Car **MUST travel a MINIMUM distance of 2 m (200 cm)** to qualify for the competition. </mark>
+<mark> The Mousetrap Car **MUST travel a MINIMUM distance of 5 m (500 cm)** to qualify for the competition. </mark>
 
 Suppose the mousetrap car stops due to hitting an object or wall. The distance is measured from the starting point to the point of impact.
 
@@ -336,94 +341,255 @@ Suppose the mousetrap car stops due to hitting an object or wall. The distance i
 ##### Example Calculation
 
 <center>
-$C=0.01$ 
-
-$C_H=2.50$ 
+$C=0.01$  $C_H=2.50$ 
 
 C, C~H~ are in USD ($) amounts
 
-$D=950 cm$ 
+$D=950 cm$ $T=9.50 s$ $L=30 cm$ $w=82.7 g$ $W=182.7 g$
 
-$T=9.50 s$
-
-$P=\frac{D}{L}×\frac{D}{T}×\frac{C_H}{C}=\frac{950cm}{30cm}×\frac{950cm}{9.50s}×\frac{(2.50)}{(0.01)}=7,916,667$
+$P=\frac{w}{W} × \frac{D}{L}×\frac{D}{T}×\frac{C_H}{C}=\frac{82.7g}{182.7g}×\frac{950cm}{30cm}×\frac{950cm}{9.50s}×\frac{(2.50)}{(0.01)}=3.58×10^5$
 </center>
 
-The Final Score is based on the following two criteria:
+The Final Score is based on the following criteria* at the National Competition.
 
-* Performance Score 50%
+*	Performance Score 20%
 
-*	Written Report 50%
+*	Technical Report 20%
 
-#### Virtual Event - Calculation of Mousetrap Car Score
+*	Technical Drawing 20%
+
+*	PowerPoint Presentation 20%
+
+*	The Art of Engineering* 20%
+    + AOE requires a video presentation submission
+
+The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
+
+*	Performance Score 25%
+
+*	Technical Report 25%
+
+*	Technical Drawing 25%
+
+*	PowerPoint Presentation 25%
+
+
+#### Virtual Event - Calculation of MTC Score
 
 Calculate the score when there is no physical competition - car run
 
 <center>
-$P=\frac{D}{L}×\frac{D}{T}×\frac{C_H}{C}$
+$P =\frac{w}{W} × \frac{D}{L} × \frac{D}{T} × \frac{C_H}{C}$
 </center>
 
 For the virtual competition in the elementary school division, to calculate the performance score for your Mousetrap car run, use the following values:
 
 <center>
-$D=200 cm$ 
-
-$t=60 s$
+$D=500 cm$ $t=60 s$ $w=82.7g$
 </center>
 
-The Final Score is based on the following two criteria*:
+The Final Score is based on the following criteria* at the National Competition.
 
-* Performance Score	50%
+*	Performance Score 20%
 
-* Written Report		50%
+*	Technical Report 20%
+
+*	Technical Drawing 20%
+
+*	PowerPoint Presentation 20%
+
+*	The Art of Engineering* 20%
+    + AOE requires a video presentation submission
+
+The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
+
+*	Performance Score 25%
+
+*	Technical Report 25%
+
+*	Technical Drawing 25%
+
+*	PowerPoint Presentation 25%
 	
-*NOTE: The maximum elementary division mousetrap car final score is 100 pts.
+*NOTE: The maximum middle school division mousetrap car final score is 100 pts.
+
+### High School Division - Construction and Operation
+
+The MTC Engineering Design Competition High School Division requires participation in these five areas:
+
+1.	Mousetrap Car Performance Run
+2.	Technical Report of Mousetrap Car 
+3.	Technical Design Drawing of Mousetrap Car 
+4.	PowerPoint Presentation on the Mousetrap Car
+5.	The Art of Engineering video presentation
 
 
-## VEX IQ Robotics
+#### In-Person Event - Calculation of MTC Score
+
+The performance score for the Mousetrap car run is calculated using the following equation:
 
 <center>
-![](images/Vex IQ.png){width=50%}
+$P =\frac{w}{W} × \frac{D}{L} × \frac{D}{T} × \frac{C_H}{C}$
+</center>
+
+Where:
+
+w is the combined mass of a tennis ball and standard mousetrap (g). w = 25g + 57.7g = 82.7g
+
+W is the total weight of the completed mousetrap car (g).
+
+D is the distance the mousetrap car travels measured in centimeters (cm).
+
+L is the longest length of the completed mousetrap car from any orientation on the x, y, and z-axis measured in centimeters (cm).
+
+T is time measured from when the mousetrap car is released until the car has stopped, measured in seconds (s). 
+
+C^+^ is the cost of the construction of the completed mousetrap car (based on the team’s MTC Materials List).*
+
+C~H~ is a constant 2.5 (the highest possible cost). Therefore, C~H~=$2.50 in the equation.
+
+P is the mousetrap car performance run score.
+
+<center>
+$F = \frac{P}{P_H} ×100%$
+</center>
+
+where:
+
+P~H~ is the highest performance mousetrap car score on the day of the SECME Competition. 
+
+F is the final performance score to be combined with the score from the Written Report.
+
+Distance is measured from the front of the front wheel(s) at the starting point to the front of the front wheel(s) at the stopping point of travel, utilizing a straight line to connect the two points.
+
+<mark> The Mousetrap Car **MUST travel a MINIMUM distance of 10 m (1000 cm)** to qualify for the competition. </mark>
+
+Suppose the mousetrap car stops due to hitting an object or wall. The distance is measured from the starting point to the point of impact.
+
+<small> *If the MTC Materials List is NOT submitted, the Cost (C) for the team’s score is calculated as double the highest cost (C~H~) in the competition formula.*</small>
+
+<small> *If the value of C is $0.00 (meaning that except for the mousetrap, your car is built entirely with recycled materials), then use $0.01 (one penny) for the value of C. Therefore, C=0.01 in the equation.*</small>
+
+
+##### Example Calculation
+
+<center>
+$C=0.01$  $C_H=2.50$ 
+
+C, C~H~ are in USD ($) amounts
+
+$D=950 cm$ $T=9.50 s$ $L=30 cm$ $w=82.7 g$ $W=182.7 g$
+
+$P=\frac{w}{W} × \frac{D}{L}×\frac{D}{T}×\frac{C_H}{C}=\frac{82.7g}{182.7g}×\frac{950cm}{30cm}×\frac{950cm}{9.50s}×\frac{(2.50)}{(0.01)}=3.58×10^5$
+</center>
+
+The Final Score is based on the following criteria* at the National Competition.
+
+*	Performance Score 20%
+
+*	Technical Report 20%
+
+*	Technical Drawing 20%
+
+*	PowerPoint Presentation 20%
+
+*	The Art of Engineering* 20%
+    + AOE requires a video presentation submission
+
+The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
+
+*	Performance Score 25%
+
+*	Technical Report 25%
+
+*	Technical Drawing 25%
+
+*	PowerPoint Presentation 25%
+
+
+#### Virtual Event - Calculation of MTC Score
+
+Calculate the score when there is no physical competition - car run
+
+<center>
+$P =\frac{w}{W} × \frac{D}{L} × \frac{D}{T} × \frac{C_H}{C}$
+</center>
+
+For the virtual competition in the elementary school division, to calculate the performance score for your Mousetrap car run, use the following values:
+
+<center>
+$D=1000 cm$ $t=60 s$ $w=82.7g$
+</center>
+
+The Final Score is based on the following criteria* at the National Competition.
+
+*	Performance Score 20%
+
+*	Technical Report 20%
+
+*	Technical Drawing 20%
+
+*	PowerPoint Presentation 20%
+
+*	The Art of Engineering* 20%
+    + AOE requires a video presentation submission
+
+The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
+
+*	Performance Score 25%
+
+*	Technical Report 25%
+
+*	Technical Drawing 25%
+
+*	PowerPoint Presentation 25%
+	
+*NOTE: The maximum high school division mousetrap car final score is 100 pts.
+
+
+## VEX V5 Robotics
+
+<center>
+![](images_MSHS/Vex V5.png){width=50%}
 </center>
 
 <small>https://www.vexrobotics.com/v5/competition/vrc-current-game</small>
 
-<small>https://www.vexrobotics.com/iq/competition/viqc-current-game</small>
 
 ### Construction and Operation
 
-The VEX IQ Robotics Design System offers students an exciting platform for learning about areas rich with career opportunities spanning science, technology, engineering, and math (STEM). These are just a few of the many fields students can explore by creating with VEX IQ Robotics technology. Beyond science and engineering principles, a VEX IQ Robotics project encourages teamwork, leadership, and problem-solving among groups. It also allows educators to easily customize projects to meet the level of students’ abilities.
+The VEX V5 Robotics Design System offers students an exciting platform for learning about areas rich with career opportunities spanning science, technology, engineering, and math (STEM). These are just a few of the many fields students can explore by creating with VEX V5 Robotics technology. Beyond science and engineering principles, a VEX V5 Robotics project encourages teamwork, leadership, and problem-solving among groups. It also allows educators to easily customize projects to meet the level of students’ abilities.
 
-<mark> VEX IQ Robotics is a SECME non-traveling student team competition.</mark>
+<mark> VEX V5 Robotics is a SECME non-traveling student team competition.</mark>
 
-Please follow the instructions below to participate in the SECME VEX IQ Robotics Competition.
+Please follow the instructions below to participate in the SECME VEX V5 Robotics Competition.
 
-1.	**Team Registration**: You are encouraged to register your team with VEX IQ Robotics at www.RobotEvents.com. Registration connects you to the system and gives you access to resources.
-    a.	Registration costs $100 for the first team and $50 for each additional team at the same school.
-    b.	Registration gets you access to the official VEX IQ Robotics Competitions and a welcome kit that includes:
+1.	**Team Registration**: You are encouraged to register your team with VEX V5 Robotics at www.RobotEvents.com. Registration connects you to the system and gives you access to resources.
+    a.	Registration costs 100 USD for the first team and 50 USD for each additional team at the same school.
+    b.	Registration gets you access to the official VEX V5 Robotics Competitions and a welcome kit that includes:
         i.	Sample Game Pieces
         ii.	Robot License Tags
         iii.	Robot Flags
         iv.	Other promotional items
     c.	Teams **DO NOT** have to be registered with VEX to participate in “**SECME ONLY**” robotics events.
 
-2.	**Competition Format**: SECME will follow the VEX IQ Robotics “Game Rules” and may or may not include the following:
+2.	**Competition Format**: SECME will follow the VEX V5 Robotics “Game Rules” and may or may not include the following:
     a.	Alliances
     b.	Head-to-head
     c.	Autonomous Period
     d.	Robot Skills Challenge
     e.	Programming Challenge
 
-3.	SECME VEX IQ Robotics are non-qualifying competitions. Your student team does not have to place first in your local, district, state, or regional competition to compete at the SECME National Competition level. In the absence of a SECME VEX IQ Robotics competition at your local, district, state, or regional competition, the SECME Coordinator must notify the SECME National Office that they have a student team(s) that they would like to be registered. The SECME National Office will provide the designated links to upload all required documents.
+3.	SECME VEX V5 Robotics are non-qualifying competitions. Your student team does not have to place first in your local, district, state, or regional competition to compete at the SECME National Competition level. In the absence of a SECME VEX V5 Robotics competition at your local, district, state, or regional competition, the SECME Coordinator must notify the SECME National Office that they have a student team(s) that they would like to be registered. The SECME National Office will provide the designated links to upload all required documents.
 
-4.	**SECME Student Team Requirements**: VEX IQ Robotics is a non-qualifying SECME Competition. Student teams can be made up of one, two, or three students per team.
+4.	**SECME Student Team Requirements**: VEX V5 Robotics is a non-qualifying SECME Competition. Student teams can be made up of one, two, or three students per team.
 
-### VEX IQ Robotics Slapshot
+### VEX V5 Robotics Spin Up
 
 <center>
 https://www.vexrobotics.com/vexiq/
 
-![](images/Vex IQ.png){width=50%}
+![](images_MSHS/Vex V5.png){width=50%}
 
 https://www.vexrobotics.com/iq/competition/viqc-current-game
 </center>
@@ -431,39 +597,70 @@ https://www.vexrobotics.com/iq/competition/viqc-current-game
 #### Robot Hardware
 
 * If you already have a robot kit - reuse it.
-    + We recommend getting a quote from your local reseller if you need VEX IQ Robotics     parts. It costs you nothing extra but brings you their local support.
+    + We recommend getting a quote from your local reseller if you need VEX V5 Robotics     parts. It costs you nothing extra but brings you their local support.
     + Visit https://www.vexrobotics.com/how-to-order to find a reseller in your area
-    + or visit the VEX IQ Robotics website at https://www.vexrobotics.com/.
+    + or visit the VEX V5 Robotics website at https://www.vexrobotics.com/.
 *	You can also contact the SECME National office to direct you to the support representative for your state.
 
 #### 2022-2023 Game
 
-This year’s game is [Slapshot](https://www.youtube.com/watch?v=vF3I8FscrKo). With guidance from their SECME Coordinators, teachers, and mentors, students will build the most innovative robots possible and work together to obtain the most points possible. Students will learn many academic and life skills through participating in the VEX IQ Robotics Competition and their work within their team.
+This year’s game is [Spin Up](https://youtu.be/wIZgvVDZc2Y). With guidance from their SECME Coordinators, teachers, and mentors, students will build the most innovative robots possible and work together to obtain the most points possible. Students will learn many academic and life skills through participating in the VEX V5 Robotics Competition and their work within their team.
 
-Click to access the official [VEX IQ Robotics Slapshot competition resources](https://www.vexrobotics.com.mx/vexiq/doctos/2022/2022-VIQC-GameManual2023.pdf). To see the [VEX IQ Robotics Slapshot video](https://www.youtube.com/watch?v=vF3I8FscrKo)
+Click to access the official [VEX V5 Robotics Spin Up competition resources](https://content.vexrobotics.com/docs/2022-2023/vrc-spin-up/VRC-SpinUp-GameManual-2.0.pdf). To see the [VEX IQ Robotics Spin Up video](https://youtu.be/wIZgvVDZc2Y)
 
-#### Student Team Requirements
+#### SECME Student Team Requirements 
 
-VEX IQ Robotics is a non-qualifying SECME Competition. If your students compete in a virtual competition, student teams can be made up of one, two, or three students.
+VEX V5 Robotics is a non-qualifying SECME Competition. If your students compete in a virtual competition, student teams can be made up of one, two, or three students.
 
 **In-Person Event**
-The Final Score is based on the following criteria:
+The Final Score is based on the following criteria*:
 
-*	Performance Score 50%
+*	Performance Score 20%
 
-*	Engineering Notebook 50%
+*	Engineering Notebook 20%
+
+*	Technical Drawing 20%
+
+*	PowerPoint Presentation 20%
+
+*	The Art of Engineering* 20%
+
+The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
+
+*	Performance Score 25%
+
+*	Engineering Notebook 25%
+
+*	Technical Drawing 25%
+
+*	PowerPoint Presentation 25%
+
 
 **Virtual Event**
-The Final Score is based on the following criteria:(when there is no performance score)
+The Final Score is based on the following criteria*: (when there is no performance score)
+
+*	Engineering Notebook 25%
+
+*	Technical Drawing 25%
+
+*	PowerPoint Presentation 25%
+
+*	The Art of Engineering* 25%
+
+The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
 
 *	Engineering Notebook 50%
 
-*	The Art of Engineering 50%
+*	Technical Drawing 25%
+
+*	PowerPoint Presentation 25%
+
+NOTE: The maximum VEX V5 final score is 100 pts.
 
 ## Water Bottle Rocket Design Competition (WBR)
 
 <center>
-![](images/SECME WBR.png){width=50%}
+![](images_MSHS/SECME WBR.png){width=50%}
 </center>
 
 
@@ -479,19 +676,20 @@ We have added two new features for this competition year.
 
 Calculation Exercises:
 
-**Grades Pre-K-2**
+**Grades 6-8**
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_PK-2.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/Calc Manuals/WBR_CalcManual_6-8.pdf")
 ```
 
-**Grades 3-5**
+**Grades 9-12**
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_3-5.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/Calc Manuals/WBR_CalcManual_9-12.pdf")
 ```
 
-**The Mission**
+### The Mission
+
 The mission is to design a Water Bottle Rocket Vehicle capable of staying aloft for the longest time (measured in seconds).
 
 #### Regulations
@@ -528,21 +726,29 @@ $\color{red}{\text{They are dangerous and could harm the operator and bystanders
 
 8.	Parachutes are NOT allowed to be used.
 
-### Elementary School Division - Construction and Operation
-
-<center><mark>**Elementary Water Bottle Rocket is a non-traveling student team competition.**</mark></center>
+### Middle/High School Division - Construction and Operation
 
 #### In-Person Event - Calculation of WBR Score 
 
 <center><mark>**NOTE: Each entry must pass a visual inspection and height requirement to be eligible to compete. Entries that fail inspection are given ONE opportunity to make modifications to pass inspection before the beginning of the water bottle rocket competition.**</mark></center>
 
+* Each SECME student team is required to submit a completed entry form, technical paper, and patch design. 
+    + Check with your SECME Competition Host for local submission deadlines
+
+* Before the launch, an operating rocket, technical drawing, and patch design must be submitted to compete on the day of the competition. 
+
 An overall winner is determined by the following criteria (based on 100 pts):
 
-* Final Hang Time of Rocket 40%
+*	Final Hang Time of Rocket 20%
 
-* Patch Design 25%
+*	Patch Design 20%
 
-* Written Report 35%
+*	Technical Report 20%
+
+*	Technical Drawing 20%
+
+*	PowerPoint Presentation 20%
+
 
 **Final Hangtime Score Calculation**
 
@@ -556,31 +762,36 @@ $Final Hangtime Score=\frac{Hangtime}{Max Hangtime}x100%$
 
 The contest’s objective is for each SECME student team to launch a rocket-propelled by water and air and for it to stay aloft for the maximum amount of time (measured in seconds). The launch angle, which can be adjusted from approximately **90 degrees (90^o^)**, will be kept the **SAME** for all rockets launching during a particular competition. Each rocket will be launched using **12 oz water** at **70 psi of air pressure**.
 
-NOTE: The maximum final elementary Water Bottle Rocket score is 100 pts.
+NOTE: The maximum final middle/high school Water Bottle Rocket score is 100 pts.
 
 #### Virtual Event - Calculation of WBR Score
+
 There is no hangtime performance
 
 The winner will be judged on the following criteria: (based on 100 pts):
 
-* Patch Design 25%
+*	Patch Design 20%
 
-* The Art of Engineering 25%
+*	Technical Report 20%
 
-* Written Report 50%
+*	Technical Drawing 20%
+
+*	PowerPoint Presentation 20%
+
+* The Art of Engineering 20%
 
 The written report must include calculation exercises:
 
-**Grades Pre-K-2**
+**Grades 6-8**
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_PK-2.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/Calc Manuals/WBR_CalcManual_6-8.pdf")
 ```
 
-**Grades 3-5**
+**Grades 9-12**
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_3-5.pdf")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/Calc Manuals/WBR_CalcManual_9-12.pdf")
 ```
 
 ### Schematic Diagrams
@@ -588,20 +799,20 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Gu
 #### Diagram 1: Parts of a WBR
 
 <center>
-![](images/WBR_Dim.jpg){width=50%}
+![](images_MSHS/WBR_Dim.jpg){width=50%}
 </center>
 
 
 #### Diagram 2: Nose Cone Diagram
 
 <center>
-![](images/WBR_Nose.jpg){width=50%}
+![](images_MSHS/WBR_Nose.jpg){width=50%}
 </center>
 
 #### Diagram 3: Fin Diagram
 
 <center>
-![](images/WBR_Fin.jpg){width=50%}
+![](images_MSHS/WBR_Fin.jpg){width=50%}
 </center>
 
 ## Patch Design Challenge
@@ -648,12 +859,12 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Gu
 ### Example Patch Design
 
 <center>
-![](images/WBR_Patch.png){width=50%}
+![](images_MSHS/WBR_Patch.png){width=50%}
 </center>
 
 **Example Explanation of Patch**
 
-The propelled rocket represents the school system, supported by educators and students, following a path towards excellence. The radiant five 8-point stars symbolize the enrichment of Science, Engineering, Communication, and Mathematics, whereas the seven 4-point stars represent the seven Universities that founded SECME. The three distinct contrails STEMing behind the rocket symbolize the support offered by SECME, Universities, and Industry partners. The ring before the rocket depicts a student’s path through the SECME program, returning full circle to support the program’s efforts. As we have entered the new millennium, the sun over the horizon symbolizes the induction of the new Water bottle rocket Design Competition into the SECME Programs. Accuracy, the contest’s focus, represents the target created by the outer ring, deep space, and the earth. The border is supported on the left and right by the water and compressed air symbols; the fluids used to propel the rockets. 
+The propelled rocket represents the school system, supported by educators and students, following a path towards excellence. The radiant five 8-point stars symbolize the enrichment of Science, Engineering, Communication, and Mathematics, whereas the seven 4-point stars represent the seven Universities that founded SECME. The three distinct contrails STEMing behind the rocket symbolize the support offered by SECME, Universities, and Industry partners. The ring before the rocket depicts a student’s path through the SECME program, returning full circle to support the program’s efforts. As we have entered the new millennium, the sun over the horizon symbolizes the induction of the new Water bottle rocket Design Competition into the SECME Programs. Accuracy, the contest’s focus, represents the target created by the outer ring, deep space, and the earth. The border is supported on the left and right by the water and compressed air symbols; the fluids used to propel the rockets.
 
 
 ## The Art of Engineering (AOE)
@@ -671,7 +882,9 @@ What is the Art of Engineering (AOE)? AOE is an opportunity for SECME student te
 In the video, teams will:
 
 *	Introduce their team and themselves
+
 *	Introduce their final design
+
 *	Walk through their design process
       + Brainstorming design ideas – initial sketches and ideas
       + Prototype Versions – at least two versions
@@ -689,19 +902,17 @@ Every student team member must contribute to a piece of the video to get all pos
 ## Essay and Vision Board Competition
 
 <center>
-![](images/Essay_VB.png){width=50%}
+![](images_MSHS/Essay_VB.png){width=50%}
 </center>
 
 ### Essay and Vision Board Introduction
 
 SECME’s essay and vision board competitions are written and illustrative representations of the of the topics below. Essays can be written around Topics 1-4. All vision boards are created around Topic 1. All essay/vision board submissions will require a cover page.
 
-* **Grades Pre-K-2** - students will only create vision boards around Topic 1.
-
-* **Grades 3-5** – students can choose any topic for the essay portion of the competition. Students will create vision boards around Topic 1.
-
+*	**Grades** 6-12 - students can choose any topic for the essay portion of the competition. Students will create vision boards around Topic 1.
 
 ### Topics
+
 1. How has participation in SECME helped me to discover my STEM dream job?
 
 2. How has the COVID-19 pandemic shown the importance of STEM?
@@ -728,20 +939,7 @@ When choosing topics 2-4, answer the questions:
 
 The vision board can be hand drawn or created using a computer program. For boards created by hand, teams can use materials such as magazine clippings, newspaper clippings, crayons, markers, colored pencils, colored pens, or paint. Clip art or electronic visual graphics are allowed when designing on a computer. Your vision board must be one page, and it can either be positioned in portrait or landscape.
 
-#### Grades Pre-K – 2
-
-**Using topic 1**, Create your vision board on paper. Next, working with your SECME Coordinator or parent/guardian, record a four-minute maximum video message explaining your vision board and how participation in SECME has helped you to choose that career path.
-
-Submission of your vision board must include the following:
-
-1.	Required cover page
-2. Vision Board drawing is one page in length and can be positioned either in portrait or landscape
-3. Four-minute (max) video explaining your vision board
-
-
-If you choose Topic 1, you simply will draw on your vision board what job in STEM (Science, Technology, Engineering, and Mathematics) you would like to have when you grow up. 
-
-#### Grades 3 – 5
+#### Grades 6 – 12
 
 **Choose a topic from the topic list (1-4) to write your essay.**
 
@@ -752,14 +950,15 @@ Writing is critical, but it is a learned skill, and some students perfect it soo
 Submission of the essay/vision board must include the following:
 
 1.	Required cover page
-2.	The essay should contain 500 – 1,000 words
+2.	The essay should contain 1,000 – 1,500 words
 3.	Write a one-paragraph description of your vision board (note that your description should be included in your essay, not on the vision board page)
 4.	Vision Board drawing is one page in length and can be positioned either in portrait or landscape
 5.	Four-minute (max) video explaining your vision board (optional)
 
-### Vision Board
+**Grades 8-12 – Topic 1**: You will use the essay to embark on a personal exploration to research, plan, and deliver a well-written essay and compose artwork that reflects what you have searched and discovered in the identifying a career path in Science, Technology, Engineering and Mathematics. Helpful Tips: Have a willingness to discover, have access to the Internet, use a Journal to write down all the information you find.
 
-Topic 1: How has participation in SECME helped me to discover my STEM dream job?
+
+### Vision Board
 
 This vision board is a visualization of your future STEM career. Using art, create a vision board that depicts your future career path and expresses your hopes and dreams in Science, Technology, Engineering, and Mathematics. 
 
@@ -791,14 +990,17 @@ The Vision Board will be judged on the following criteria:
 
 Required for Competition
 
-The following are the required SECME competition documents, reports, videos, and forms that the SECME Coordinator must electronically upload on or before **Monday, April 10, 2023**. Required competition reports not submitted will result in a zero score for that section. Except for videos, ALL work must be converted to a PDF document before submission.
+The SECME competition hosts must report all winners to the SECME National Office and upload their competition documents and videos via electronic registration. Registration opens **Monday, March 13, 2023**, and **closes Monday, April 3, 2023**. Complete the SECME Registration Information. *Deadline extension for the Texas Region.
+
+Reports not submitted will result in a zero score for that section. Except for videos, ALL work must be converted to a PDF document before submission.
+
 
 ```{r echo=FALSE}
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/Reporting Checklist_MSHS.pdf")
 ```
 <center>
-![](docs/Reporting Checklist_EL1.jpg){width=50%}
-![](docs/Reporting Checklist_EL2.jpg){width=50%}
+![](docs_MSHS/Reporting Checklist_MSHS1.jpg){width=50%}
+![](docs_MSHS/Reporting Checklist_MSHS2.jpg){width=50%}
 
 </center>
 
@@ -810,7 +1012,7 @@ Below is the information needed to register 1st place winners for qualifying and
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Registration Information_MSHS.pdf")
 ```
 <center>
-![](docs_MS/SECME Registration Information_MSHS.jpg){width=50%}
+![](docs_MSHS/SECME Registration Information_MSHS.jpg){width=50%}
 </center>
 
 ## SECME Consent Form - Photo/Video
@@ -820,7 +1022,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Gu
 ```
 
 <center>
-![](docs/SECME Consent Form.jpg){width=50%}
+![](docs_MSHS/SECME Consent Form.jpg){width=50%}
 </center>
 
 
@@ -863,7 +1065,7 @@ Required competition documents not uploaded will receive a zero-point score for 
 ## Acceptable Fonts
 
 <center>
-![](docs/Fonts.png){width=50%}
+![](docs_MSHS/Fonts.png){width=50%}
 </center>
 
 ## Sample Cover Page
@@ -926,7 +1128,7 @@ Coordinator/Teacher email address
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/Materials List.pdf")
 ```
 <center>
-![](docs/Materials List.jpg){width=50%}
+![](docs_MSHS/Materials List.jpg){width=50%}
 </center>
 
 ## SECME Grievance Form
@@ -938,7 +1140,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Gu
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Grievance Form.pdf")
 ```
 <center>
-![](docs/SECME Grievance Form.jpg){width=50%}
+![](docs_MSHS/SECME Grievance Form.jpg){width=50%}
 </center>
 
 
@@ -951,7 +1153,7 @@ If you have any questions or need help in these specific areas, please contact:
 
 **Engineering Design (Water Bottle Rocketry)**: Contact the Member University engineering representative who sponsors your Regional/State competition.
 
-**VEX IQ Robotics**: Contact the SECME National Office - secme@eng.ufl.edu
+**VEX V5 Robotics**: Contact the SECME National Office - secme@eng.ufl.edu
 
 **Essay/Vision Board, Picture Book, and Poster Competitions**: Contact the SECME National Office - secme@eng.ufl.edu
 
@@ -1014,7 +1216,7 @@ $\frac{10.00}{1 kg}×1 g×\frac{1 kg}{1000 g}=0.01$
 
     An example of how to fill out the material list.
     <center>
-    ![](images/Material List Example.png){width=50%}
+    ![](images_MSHS/Material List Example.png){width=50%}
     </center>
     
 9. Local, District, State, or Regional SECME Competition Concerns and Complaints
