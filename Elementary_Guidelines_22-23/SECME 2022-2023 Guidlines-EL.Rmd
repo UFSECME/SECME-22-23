@@ -13,7 +13,6 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-xfun::pkg_load2(c("htmltools", "mime"))
 ```
 
 # Elementary School Division
@@ -22,10 +21,7 @@ xfun::pkg_load2(c("htmltools", "mime"))
 ![](images/SECME_logo.jpg)
 </center>
 
-To view the SECME National Guidelines in a PDF click to
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/SECME Guidelines 22-23_EL.pdf")
-```
+[Click to download the SECME National Guidelines - Elementary Division](https://drive.google.com/file/d/1Z64pI6BVgjHz9lB-yuTK-Q-LcUg-W1-1/view?usp=sharing)
 
 # Letter to our Competition Hosts
 
@@ -97,13 +93,8 @@ The links below are also available on our website at www.secme.org.
 
 **Monday, May 8, 2023** – Notification of Winners. SECME will post a listing of All winners on their website.
 
+[Click to download the Important Deadlines](https://drive.google.com/file/d/1Ixqtlu-RGszPmZxJvsQu1YIY3SdjRwOl/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Important Deadlines.pdf")
-```
- 
- 
- 
 ## General Competition Information
 
 Please read the entirety of the 2022-2023 SECME National Student Engineering Design Competition Guidelines. Any alterations to these guidelines are prohibited. If you are a SECME competition host with local SECME competition guidelines, please keep the contents of the SECME National Guidelines separate from your local guidelines.
@@ -150,9 +141,8 @@ All 1st place winners at their local, district, state, or regional competition a
 
 Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. Registration opens **Monday, March 13, 2023**, and closes on **Monday, April 3, 2023**. A registration link will also be sent with instructions to complete registration.
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/SECME Registration Information.pdf")
-```
+[Click to download the Registration Information](https://drive.google.com/file/d/1Fcbqi9r5xaDt4j82nl4f8j2J4ZtLQl13/view?usp=sharing)
+
 <center>
 ![](docs/SECME Registration Information.jpg){width=50%}
 </center>
@@ -482,17 +472,10 @@ We have added two new features for this competition year.
 
 Calculation Exercises:
 
-**Grades Pre-K-2**
+[**Grades Pre-K-2**](https://drive.google.com/file/d/1Z1XDxNNt5GS_ZKAqWaao9eSnRVj-uTaF/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_PK-2.pdf")
-```
 
-**Grades 3-5**
-
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_3-5.pdf")
-```
+[**Grades 3-5**](https://drive.google.com/file/d/1AnWsXz6qkAJQpVZOwVau_HtBQMayRhlS/view?usp=sharing)
 
 ### The Mission
 
@@ -576,17 +559,11 @@ The winner will be judged on the following criteria: (based on 100 pts):
 
 The written report must include calculation exercises:
 
-**Grades Pre-K-2**
+[**Grades Pre-K-2**](https://drive.google.com/file/d/1Z1XDxNNt5GS_ZKAqWaao9eSnRVj-uTaF/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_PK-2.pdf")
-```
 
-**Grades 3-5**
+[**Grades 3-5**](https://drive.google.com/file/d/1AnWsXz6qkAJQpVZOwVau_HtBQMayRhlS/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/Calc Manual/WBR_CalcManual_3-5.pdf")
-```
 
 ### Schematic Diagrams
 
@@ -801,9 +778,8 @@ Required for Competition
 
 The following are the required SECME competition documents, reports, videos, and forms that the SECME Coordinator must electronically upload on or before **Monday, April 10, 2023**. Required competition reports not submitted will result in a zero score for that section. Except for videos, ALL work must be converted to a PDF document before submission.
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/Reporting Checklist_EL.pdf")
-```
+[Click to download Reporting Checklist](https://drive.google.com/file/d/19EiJAuf0ktyCUYjeTyYCA6sMuZHpIsO6/view?usp=sharing)
+
 <center>
 ![](docs/Reporting Checklist_EL1.jpg){width=50%}
 ![](docs/Reporting Checklist_EL2.jpg){width=50%}
@@ -814,18 +790,15 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Gu
 
 Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. Registration opens **Monday, March 13, 2023**, and closes on **Monday, April 3, 2023**. A registration link will also be sent with instructions to complete registration.
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/SECME Registration Information.pdf")
-```
+[Click to download the Registration Information](https://drive.google.com/file/d/1Fcbqi9r5xaDt4j82nl4f8j2J4ZtLQl13/view?usp=sharing)
+
 <center>
 ![](docs/SECME Registration Information.jpg){width=50%}
 </center>
 
 ## SECME Consent Form - Photo/Video
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/SECME Consent Form.pdf")
-```
+[Click to download the SECME Consent Form](https://drive.google.com/file/d/11MGy0_oRmGS9jSMLwvYPaHyf1WUp7uYd/view?usp=sharing)
 
 <center>
 ![](docs/SECME Consent Form.jpg){width=50%}
@@ -929,22 +902,18 @@ Coordinator/Teacher email address
 
 ## Materials List
 
+[Click to download the Materials List](https://drive.google.com/file/d/1pgoFW-32JgI7FAmlBR2uGlz2nguaY-QW/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/Materials List.pdf")
-```
 <center>
 ![](docs/Materials List.jpg){width=50%}
 </center>
 
 ## SECME Grievance Form
 
-[Linlk to the SECME Grievance Form](https://forms.gle/U4q4gSnznZsCw9yL7)
+[Link to the SECME Grievance Form](https://forms.gle/U4q4gSnznZsCw9yL7)
 
+[Click to download the SECME Grievance Form](https://drive.google.com/file/d/1wL40V3ZLhpDdOFKBuahD8eWRomaa3day/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/Elementary_Guidelines_22-23/docs/SECME Grievance Form.pdf")
-```
 <center>
 ![](docs/SECME Grievance Form.jpg){width=50%}
 </center>

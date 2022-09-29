@@ -13,7 +13,6 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-xfun::pkg_load2(c("htmltools", "mime"))
 ```
 
 # Middle and High School Division
@@ -22,10 +21,7 @@ xfun::pkg_load2(c("htmltools", "mime"))
 ![](images_MSHS/SECME_logo.jpg)
 </center>
 
-To view the SECME National Guidelines in a PDF click to
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/SECME Guidelines 22-23_MSHS.pdf")
-```
+[Click to download the SECME National Guidelines - Middle/High School Division](https://drive.google.com/file/d/12pSZ6oCPhyys6BPDFkU-JmIwTOitQQ3I/view?usp=sharing)
 
 # Letter to our Competition Hosts
 
@@ -97,9 +93,7 @@ The links below are also available on our website at www.secme.org.
 **Monday, May 8, 2023** – Notification of Winners. SECME will post a listing of All winners on their website.
 
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Important Deadlines_MSHS.pdf")
-```
+[Click to download the Important Deadlines](https://drive.google.com/file/d/1kvi4irQyvardLMzMa9eTvj8kpCfOKnFT/view?usp=sharing)
  
 ## General Competition Information
 
@@ -145,9 +139,8 @@ All 1st place winners at their local, district, state, or regional competition a
 
 Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. Registration opens **Monday, March 13, 2023**, and closes on **Monday, April 3, 2023**. A registration link will also be sent with instructions to complete registration.
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Registration Information_MSHS.pdf")
-```
+[Click to download the Registration Information](https://drive.google.com/file/d/1hE7ESrV-Gr-6G1bY49niSLAgA8lDGmG8/view?usp=sharing)
+
 <center>
 ![](docs_MSHS/SECME Registration Information_MSHS.jpg){width=50%}
 </center>
@@ -581,17 +574,10 @@ We have added two new features for this competition year.
 
 Calculation Exercises:
 
-**Grades 6-8**
+[**Grades 6-8**](https://drive.google.com/file/d/1kGq98ptWo-p4ix0U07u6oTcjH8XkV8np/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/Calc Manuals/WBR_CalcManual_6-8.pdf")
-```
+[**Grades 9-12**](https://drive.google.com/file/d/117yIoccePStjl_aTA-qSA5Lunx2WK1cX/view?usp=sharing)
 
-**Grades 9-12**
-
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/Calc Manuals/WBR_CalcManual_9-12.pdf")
-```
 
 ### The Mission
 
@@ -671,17 +657,10 @@ The contest’s objective is for each SECME student team to launch a rocket-prop
 
 The technical report must include calculation exercises:
 
-**Grades 6-8**
+[**Grades 6-8**](https://drive.google.com/file/d/1kGq98ptWo-p4ix0U07u6oTcjH8XkV8np/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/Calc Manuals/WBR_CalcManual_6-8.pdf")
-```
+[**Grades 9-12**](https://drive.google.com/file/d/117yIoccePStjl_aTA-qSA5Lunx2WK1cX/view?usp=sharing)
 
-**Grades 9-12**
-
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/Calc Manuals/WBR_CalcManual_9-12.pdf")
-```
 
 ### Schematic Diagrams
 
@@ -881,10 +860,8 @@ The SECME competition hosts must report all winners to the SECME National Office
 
 Reports not submitted will result in a zero score for that section. Except for videos, ALL work must be converted to a PDF document before submission.
 
+[Click to download Reporting Checklist](https://drive.google.com/file/d/1PBfo-yjE-H9aDlLS7jEbpMcSDKmmjtBJ/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/Reporting Checklist_MSHS.pdf")
-```
 <center>
 ![](docs_MSHS/Reporting Checklist_MSHS1.jpg){width=50%}
 ![](docs_MSHS/Reporting Checklist_MSHS2.jpg){width=50%}
@@ -895,18 +872,15 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Gu
 
 Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. Registration opens **Monday, March 13, 2023**, and closes on **Monday, April 3, 2023**. A registration link will also be sent with instructions to complete registration.
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Registration Information_MSHS.pdf")
-```
+[Click to download the Registration Information](https://drive.google.com/file/d/1hE7ESrV-Gr-6G1bY49niSLAgA8lDGmG8/view?usp=sharing)
+
 <center>
 ![](docs_MSHS/SECME Registration Information_MSHS.jpg){width=50%}
 </center>
 
 ## SECME Consent Form - Photo/Video
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Consent Form.pdf")
-```
+[Click to download the SECME Consent Form](https://drive.google.com/file/d/1iGZFrcB19miVZHwROxb5K1_f0xbyEODM/view?usp=sharing)
 
 <center>
 ![](docs_MSHS/SECME Consent Form.jpg){width=50%}
@@ -1010,10 +984,8 @@ Coordinator/Teacher email address
 
 ## Materials List
 
+[Click to download the Materials List](https://drive.google.com/file/d/1i5Fg7LxgmCZoeo1w1I7akjBkhnwrKAfB/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/Materials List.pdf")
-```
 <center>
 ![](docs_MSHS/Materials List.jpg){width=50%}
 </center>
@@ -1022,10 +994,8 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Gu
 
 [Linlk to the SECME Grievance Form](https://forms.gle/U4q4gSnznZsCw9yL7)
 
+[Click to download the SECME Grievance Form](https://drive.google.com/file/d/1CYDr2oZGarfXQoxM6NgjxubAhc7qekcm/view?usp=sharing)
 
-```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME-22-23/MiddleHigh_Guidelines_22-23/docs_MSHS/SECME Grievance Form.pdf")
-```
 <center>
 ![](docs_MSHS/SECME Grievance Form.jpg){width=50%}
 </center>
