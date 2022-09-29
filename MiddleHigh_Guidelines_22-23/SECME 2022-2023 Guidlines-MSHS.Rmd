@@ -350,7 +350,7 @@ $D=950 cm$ $T=9.50 s$ $L=30 cm$ $w=82.7 g$ $W=182.7 g$
 $P=\frac{w}{W} × \frac{D}{L}×\frac{D}{T}×\frac{C_H}{C}=\frac{82.7g}{182.7g}×\frac{950cm}{30cm}×\frac{950cm}{9.50s}×\frac{(2.50)}{(0.01)}=3.58×10^5$
 </center>
 
-The Final Score is based on the following criteria* at the National Competition.
+The Final Score is based on the following criteria* at the SECME National Competition.
 
 *	Performance Score 20%
 
@@ -363,43 +363,6 @@ The Final Score is based on the following criteria* at the National Competition.
 *	The Art of Engineering* 20%
     + AOE requires a video presentation submission
 
-The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
-
-*	Performance Score 25%
-
-*	Technical Report 25%
-
-*	Technical Drawing 25%
-
-*	PowerPoint Presentation 25%
-
-
-#### Virtual Event - Calculation of MTC Score
-
-Calculate the score when there is no physical competition - car run
-
-<center>
-$P =\frac{w}{W} × \frac{D}{L} × \frac{D}{T} × \frac{C_H}{C}$
-</center>
-
-For the virtual competition in the elementary school division, to calculate the performance score for your Mousetrap car run, use the following values:
-
-<center>
-$D=500 cm$ $t=60 s$ $w=82.7g$
-</center>
-
-The Final Score is based on the following criteria* at the National Competition.
-
-*	Performance Score 20%
-
-*	Technical Report 20%
-
-*	Technical Drawing 20%
-
-*	PowerPoint Presentation 20%
-
-*	The Art of Engineering* 20%
-    + AOE requires a video presentation submission
 
 The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
 
@@ -411,7 +374,7 @@ The Final Score is based on the following criteria* at the local, district, stat
 
 *	PowerPoint Presentation 25%
 	
-*NOTE: The maximum middle school division mousetrap car final score is 100 pts.
+**NOTE: The maximum middle school division mousetrap car final score is 100 pts.**
 
 ### High School Division - Construction and Operation
 
@@ -483,7 +446,7 @@ $D=950 cm$ $T=9.50 s$ $L=30 cm$ $w=82.7 g$ $W=182.7 g$
 $P=\frac{w}{W} × \frac{D}{L}×\frac{D}{T}×\frac{C_H}{C}=\frac{82.7g}{182.7g}×\frac{950cm}{30cm}×\frac{950cm}{9.50s}×\frac{(2.50)}{(0.01)}=3.58×10^5$
 </center>
 
-The Final Score is based on the following criteria* at the National Competition.
+The Final Score is based on the following criteria* at the SECME National Competition.
 
 *	Performance Score 20%
 
@@ -496,43 +459,6 @@ The Final Score is based on the following criteria* at the National Competition.
 *	The Art of Engineering* 20%
     + AOE requires a video presentation submission
 
-The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
-
-*	Performance Score 25%
-
-*	Technical Report 25%
-
-*	Technical Drawing 25%
-
-*	PowerPoint Presentation 25%
-
-
-#### Virtual Event - Calculation of MTC Score
-
-Calculate the score when there is no physical competition - car run
-
-<center>
-$P =\frac{w}{W} × \frac{D}{L} × \frac{D}{T} × \frac{C_H}{C}$
-</center>
-
-For the virtual competition in the elementary school division, to calculate the performance score for your Mousetrap car run, use the following values:
-
-<center>
-$D=1000 cm$ $t=60 s$ $w=82.7g$
-</center>
-
-The Final Score is based on the following criteria* at the National Competition.
-
-*	Performance Score 20%
-
-*	Technical Report 20%
-
-*	Technical Drawing 20%
-
-*	PowerPoint Presentation 20%
-
-*	The Art of Engineering* 20%
-    + AOE requires a video presentation submission
 
 The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
 
@@ -544,7 +470,7 @@ The Final Score is based on the following criteria* at the local, district, stat
 
 *	PowerPoint Presentation 25%
 	
-*NOTE: The maximum high school division mousetrap car final score is 100 pts.
+**NOTE: The maximum high school division mousetrap car final score is 100 pts.**
 
 
 ## VEX V5 Robotics
@@ -559,8 +485,6 @@ The Final Score is based on the following criteria* at the local, district, stat
 ### Construction and Operation
 
 The VEX V5 Robotics Design System offers students an exciting platform for learning about areas rich with career opportunities spanning science, technology, engineering, and math (STEM). These are just a few of the many fields students can explore by creating with VEX V5 Robotics technology. Beyond science and engineering principles, a VEX V5 Robotics project encourages teamwork, leadership, and problem-solving among groups. It also allows educators to easily customize projects to meet the level of students’ abilities.
-
-<mark> VEX V5 Robotics is a SECME non-traveling student team competition.</mark>
 
 Please follow the instructions below to participate in the SECME VEX V5 Robotics Competition.
 
@@ -625,6 +549,7 @@ The Final Score is based on the following criteria*:
 
 *	The Art of Engineering* 20%
 
+
 The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
 
 *	Performance Score 25%
@@ -635,27 +560,7 @@ The Final Score is based on the following criteria* at the local, district, stat
 
 *	PowerPoint Presentation 25%
 
-
-**Virtual Event**
-The Final Score is based on the following criteria*: (when there is no performance score)
-
-*	Engineering Notebook 25%
-
-*	Technical Drawing 25%
-
-*	PowerPoint Presentation 25%
-
-*	The Art of Engineering* 25%
-
-The Final Score is based on the following criteria* at the local, district, state, and regional competitions exclude AOE and is based on the following criteria.
-
-*	Engineering Notebook 50%
-
-*	Technical Drawing 25%
-
-*	PowerPoint Presentation 25%
-
-NOTE: The maximum VEX V5 final score is 100 pts.
+**NOTE: The maximum VEX V5 final score is 100 pts.**
 
 ## Water Bottle Rocket Design Competition (WBR)
 
@@ -749,6 +654,7 @@ An overall winner is determined by the following criteria (based on 100 pts):
 
 *	PowerPoint Presentation 20%
 
+**NOTE: The maximum final middle/high school Water Bottle Rocket score is 100 pts.**
 
 **Final Hangtime Score Calculation**
 
@@ -762,25 +668,8 @@ $Final Hangtime Score=\frac{Hangtime}{Max Hangtime}x100%$
 
 The contest’s objective is for each SECME student team to launch a rocket-propelled by water and air and for it to stay aloft for the maximum amount of time (measured in seconds). The launch angle, which can be adjusted from approximately **90 degrees (90^o^)**, will be kept the **SAME** for all rockets launching during a particular competition. Each rocket will be launched using **12 oz water** at **70 psi of air pressure**.
 
-NOTE: The maximum final middle/high school Water Bottle Rocket score is 100 pts.
 
-#### Virtual Event - Calculation of WBR Score
-
-There is no hangtime performance
-
-The winner will be judged on the following criteria: (based on 100 pts):
-
-*	Patch Design 20%
-
-*	Technical Report 20%
-
-*	Technical Drawing 20%
-
-*	PowerPoint Presentation 20%
-
-* The Art of Engineering 20%
-
-The written report must include calculation exercises:
+The technical report must include calculation exercises:
 
 **Grades 6-8**
 
@@ -950,7 +839,7 @@ Writing is critical, but it is a learned skill, and some students perfect it soo
 Submission of the essay/vision board must include the following:
 
 1.	Required cover page
-2.	The essay should contain 1,000 – 1,500 words
+2.	The essay should contain Middle School: 1,000 – 1,500 words, High School: 1500-2500 words
 3.	Write a one-paragraph description of your vision board (note that your description should be included in your essay, not on the vision board page)
 4.	Vision Board drawing is one page in length and can be positioned either in portrait or landscape
 5.	Four-minute (max) video explaining your vision board (optional)
@@ -978,11 +867,9 @@ The Vision Board will be judged on the following criteria:
 
 3. Appearance, Effort, Creativity, Originality
 
-4. Video explanation of the Vision Board (Pre-K-2)
+4. One paragraph explanation of the Vision Board (6-12)
 
-5. One paragraph explanation of the Vision Board (3-12)
-
-6. Video explanation of the Vision Board (3-12) - optional
+5. Video explanation of the Vision Board (6-12) - optional
 
 # Reporting Materials
 
