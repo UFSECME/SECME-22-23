@@ -1002,7 +1002,7 @@ Coordinator/Teacher email address
 
 # Judging Evaluation Forms
 
-[Click here to download the Middle/High School Judging Evaluation Forms](https://drive.google.com/file/d/1b-nUNw1GQAXNyKYn6OrF3Qm3WcU68NcC/view?usp=sharing)
+[Click here to download the Middle/High School Judging Evaluation Forms](https://drive.google.com/file/d/1b-nUNw1GQAXNyKYn6OrF3Qm3WcU68NcC/view?usp=share_link)
 
 <center>
 ![](docs_MSHS/Judging Evaluation Forms_MSHS1.jpg){width=50%}
