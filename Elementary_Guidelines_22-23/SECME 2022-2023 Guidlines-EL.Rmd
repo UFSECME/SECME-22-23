@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](images/SECME_logo.jpg)
 </center>
 
-[Click to download the SECME National Guidelines - Elementary Division](https://drive.google.com/file/d/1Z64pI6BVgjHz9lB-yuTK-Q-LcUg-W1-1/view?usp=sharing)
+[Click to download the SECME National Guidelines - Elementary Division](https://drive.google.com/file/d/1Z64pI6BVgjHz9lB-yuTK-Q-LcUg-W1-1/view?usp=share_link)
 
 # Letter to our Competition Hosts
 

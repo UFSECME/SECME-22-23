@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](images_MSHS/SECME_logo.jpg)
 </center>
 
-[Click to download the SECME National Guidelines - Middle/High School Division](https://drive.google.com/file/d/12pSZ6oCPhyys6BPDFkU-JmIwTOitQQ3I/view?usp=sharing)
+[Click to download the SECME National Guidelines - Middle/High School Division](https://drive.google.com/file/d/12pSZ6oCPhyys6BPDFkU-JmIwTOitQQ3I/view?usp=share_link)
 
 # Letter to our Competition Hosts
 
